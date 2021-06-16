@@ -7,7 +7,7 @@ ruby RUBY_VERSION
 gem "decidim", "0.23.6"
 # gem "decidim", path: "../decidim"
 
-# gem "decidim-conferences", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
+gem "decidim-conferences", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-consultations", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 # gem "decidim-initiatives", git: "https://github.com/decidim/decidim.git", branch: "release/0.23-stable"
 
